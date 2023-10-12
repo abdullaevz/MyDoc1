@@ -1,1 +1,1 @@
-# MyDoc1
+# This is a Javadoc file from my FeastBot project
