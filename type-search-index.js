@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.feastgroup","l":"BotInServer"},{"p":"org.feastgroup","l":"Channels"},{"p":"org.feastgroup","l":"CheckEvent"},{"p":"org.feastgroup","l":"Main"},{"p":"org.feastgroup","l":"ServerListener"},{"p":"org.feastgroup","l":"SlashCommands"}];updateSearchResults();
